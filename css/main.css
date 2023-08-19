@@ -41,7 +41,7 @@ html {
 
 .nav-link {
   font-weight: 700;
-  color: rgba(0, 0, 0, 0.8) !important;
+  color: rgba(0, 0, 0, 0.8);
 }
 
 .social-nav .nav-link {
@@ -53,7 +53,7 @@ html {
 .nav-link:hover,
 .nav-link:focus,
 .active .nav-link {
-  color: rgba(0, 0, 0, 0.6) !important;
+  color: rgba(0, 0, 0, 0.6);
 }
 
 /* Hero (intro) section */
