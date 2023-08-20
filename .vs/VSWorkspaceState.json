@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\scripts"
   ],
+  "SelectedNode": "\\css\\bootstrap.min.css",
   "PreviewInSolutionExplorer": false
 }
